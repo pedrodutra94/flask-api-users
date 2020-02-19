@@ -1,3 +1,5 @@
 {
-	"python.pythonPath": "C:\\Users\\Home\\.virtualenvs\\flask-api-users-7y8mH5B6\\Scripts\\python.exe"
+	"python.pythonPath": "C:\\Users\\Home\\.virtualenvs\\flask-api-users-7y8mH5B6\\Scripts\\python.exe",
+	"python.linting.pylintEnabled": true,
+	"python.linting.enabled": true
 }
